@@ -1,4 +1,3 @@
-```markdown
 # COVID-19 Data Analysis Platform
 
 ## Overview
